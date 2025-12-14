@@ -5,8 +5,10 @@ venv/
 # data
 isimip/
 data/
+shp/
 *.nc
 *.zip
+*.xlsx
 
 # Python
 __pycache__/
