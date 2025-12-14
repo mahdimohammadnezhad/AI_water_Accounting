@@ -1,0 +1,21 @@
+# virtual env
+.venv/
+venv/
+
+# data
+isimip/
+data/
+*.nc
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter / VS Code
+.ipynb_checkpoints/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
